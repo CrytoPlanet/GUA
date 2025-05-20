@@ -4,7 +4,7 @@
 
 > GuaDAO is a decentralized content DAO for the Chinese-speaking world. Built for creators, powered by audiences, governed by tokens.
 
-[![Join Discord](https://img.shields.io/discord/123456789012345678.svg?label=Join%20Discord&logo=discord&color=7289da)]([https://discord.gg/fhc5NaXS](https://discord.gg/hBbWQpkV))
+[![Join Discord](https://img.shields.io/discord/123456789012345678.svg?label=Join%20Discord&logo=discord&color=7289da)](https://discord.gg/hBbWQpkV)
 [![YouTube](https://img.shields.io/badge/Watch%20us%20on-YouTube-red)](https://www.youtube.com/@cryptoplanet-i5k)
 
 ---
